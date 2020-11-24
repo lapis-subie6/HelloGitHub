@@ -1,0 +1,8 @@
+git checkout –b MyNewBranch
+-opens new branch in project
+git checkout MyExistingBranch
+-opens existing branch in project
+git merge BranchWithNewFeature
+-merges new branch with existing branch
+git clone
+-Clones a repository into a newly created directory
